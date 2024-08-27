@@ -3,7 +3,6 @@
 def greet_programmer():
      print("Hello, programmer!")
 
-   
 
 def greet(name):
     print(f"Hello, {name}!")
@@ -16,3 +15,4 @@ def add(num1, num2):
 
 def halve(number):
     return number/2
+
